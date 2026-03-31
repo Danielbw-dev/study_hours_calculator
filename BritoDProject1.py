@@ -1,5 +1,4 @@
 # Name: Daniel Brito
-# Project: Major Project 1
 # Summary: This program calculates how many hours a student should study
 #          outside of class based on credits and desired grade.
 # Date Last Updated: 03/14/2026
