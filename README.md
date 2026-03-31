@@ -7,7 +7,7 @@ Features:
  -Simple and user-friendly interface
 
  Programming Language:
-  -Python
+  Python
 
 How to Run:
  1-Clone the repository
