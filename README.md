@@ -2,9 +2,9 @@
 “Python program that calculates recommended study hours based on credits and desired grade"
 
 Features:
- -Calculates study hours dynamically
- -Handles invalid input
- -Simple and user-friendly interface
+ Calculates study hours dynamically
+ Handles invalid input
+ Simple and user-friendly interface
 
  Programming Language:
   Python
